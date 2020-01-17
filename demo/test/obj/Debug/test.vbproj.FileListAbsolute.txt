@@ -1,0 +1,14 @@
+D:\VB Projects\zkfinger\test\test\test\obj\Debug\test.Form1.resources
+D:\VB Projects\zkfinger\test\test\test\obj\Debug\test.Resources.resources
+D:\VB Projects\zkfinger\test\test\test\obj\Debug\test.vbproj.GenerateResource.Cache
+D:\VB Projects\zkfinger\test\test\test\obj\Debug\test.xml
+D:\VB Projects\zkfinger\test\test\test\bin\Debug\test.exe.config
+D:\VB Projects\zkfinger\test\test\test\bin\Debug\test.exe
+D:\VB Projects\zkfinger\test\test\test\bin\Debug\test.pdb
+D:\VB Projects\zkfinger\test\test\test\bin\Debug\test.xml
+D:\VB Projects\zkfinger\test\test\test\bin\Debug\AxInterop.ZKFPEngXControl.dll
+D:\VB Projects\zkfinger\test\test\test\obj\Debug\test.exe
+D:\VB Projects\zkfinger\test\test\test\obj\Debug\test.pdb
+D:\VB Projects\zkfinger\test\test\test\bin\Debug\Interop.ZKFPEngXControl.dll
+D:\VB Projects\zkfinger\test\test\test\bin\Debug\stdole.dll
+D:\VB Projects\zkfinger\test\test\test\obj\Debug\test.vbprojResolveAssemblyReference.cache
